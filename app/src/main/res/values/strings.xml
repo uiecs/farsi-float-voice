@@ -1,4 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Farsi Float Voice</string>
-    <string name="accessibility_service_description">اجازه می‌دهد متن تشخیص‌داده‌شده از حباب صوتی در کادر متنی فعال وارد شود.</string>
+    <string name="accessibility_description">برای وارد کردن متن گفتاری فارسی در کادر متنی که روی آن فوکوس است.</string>
 </resources>
